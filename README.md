@@ -19,4 +19,5 @@ Login e Perfil Personalizado: Usuários podem acessar suas informações e acomp
 Tecnologias Utilizadas
 Front-End: HTML5, CSS3, JavaScript.
 Back-End: Java (Spring Boot).
-Banco de Dados: MySQL (ou outra tecnologia relacional).
+Banco de Dados: MySQL.
+
